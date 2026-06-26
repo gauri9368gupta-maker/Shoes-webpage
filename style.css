@@ -315,6 +315,14 @@
       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
 
+.peoples{
+  display: block !important;
+  width: 250px !important;
+  height: auto !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
   .photos {
       display: flex;
       align-items: center;
