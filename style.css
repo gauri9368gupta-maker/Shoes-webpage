@@ -43,7 +43,7 @@
   }
 
   .img {
-      background: url("../images/shoes1.avif");
+      background: url("images/shoes1.avif");
       background-repeat: no-repeat;
       background-position: center;
       background-size: cover;
@@ -225,7 +225,7 @@
   }
 
   .shoes-img1 {
-      background-image: url("../images/shoes2.avif");
+      background-image: url("images/shoes2.avif");
       background-size: cover;
       border-radius: 10px;
       width: 400px;
@@ -324,7 +324,7 @@
   }
 
   .shoes-img2 {
-      background: url("../images/shoes3.avif");
+      background: url("images/shoes3.avif");
       background-size: cover;
       width: 340px;
       height: 320px;
@@ -332,7 +332,7 @@
   }
 
   .shoes-img3 {
-      background: url("../images/shoes4.avif");
+      background: url("images/shoes4.avif");
       background-size: cover;
       width: 340px;
       height: 320px;
@@ -340,7 +340,7 @@
   }
 
   .shoes-img4 {
-      background: url("../images/shoes5.avif");
+      background: url("images/shoes5.avif");
       background-size: cover;
       width: 340px;
       height: 320px;
@@ -348,7 +348,7 @@
   }
 
   .shoes-img5 {
-      background: url("../images/shoes6.avif");
+      background: url("images/shoes6.avif");
       background-size: cover;
       width: 340px;
       height: 320px;
@@ -411,7 +411,7 @@
   }
 
   .main-div2 {
-      background: url("../images/shoes7.avif");
+      background: url("images/shoes7.avif");
       background-position: center;
       width: 700px;
       height: 720px;
@@ -436,7 +436,7 @@
   }
 
   .shoes-img6 {
-      background: url("../images/shoes4.avif");
+      background: url("images/shoes4.avif");
       background-position: center;
       width: 465px;
       height: 430px;
@@ -444,7 +444,7 @@
   }
 
   .shoes-img7 {
-      background: url("../images/shoes8.avif");
+      background: url("images/shoes8.avif");
       background-position: center;
       width: 465px;
       height: 430px;
@@ -452,7 +452,7 @@
   }
 
   .shoes-img8 {
-      background: url("../images/shoes9.avif");
+      background: url("images/shoes9.avif");
       background-position: center;
       width: 465px;
       height: 430px;
@@ -472,7 +472,7 @@
   }
 
   .orange {
-      background: url("../images/shoes10.jpg");
+      background: url("images/shoes10.jpg");
       background-repeat: no-repeat;
       background-size: cover;
       background-position: center;
