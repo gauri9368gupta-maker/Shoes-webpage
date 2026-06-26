@@ -317,9 +317,10 @@
 
 .peoples{
   display: block !important;
-  width: 250px !important;
+  width: 50px !important;
   height: auto !important;
   opacity: 1 !important;
+ border-radius: 50%;
   visibility: visible !important;
 }
 
