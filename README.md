@@ -7,16 +7,6 @@ https://github.com/gauri9368gupta-maker/Shoes-webpage/
 ## live link
 https://gauri9368gupta-maker.github.io/Shoes-webpage/
 
-## 📸 Preview
-
-Add screenshots of your project here.
-
-Example:
-
-![Homepage Screenshot](images/preview.png)
-
----
-
 ## ✨ Features
 
 - 📱 Fully Responsive Design
